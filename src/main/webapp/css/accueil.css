@@ -1,0 +1,7 @@
+.modal.show {
+    display: block;
+    padding-right: 15px; /* Adjust if needed */
+}
+.modal-backdrop.show {
+    display: block;
+}
